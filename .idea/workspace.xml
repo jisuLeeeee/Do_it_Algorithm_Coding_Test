@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/README/README3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/B_1940.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/B_2018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_1940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_2018.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="README3.md commit">
+      <change afterPath="$PROJECT_DIR$/README/README2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +41,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Doit_Algorithm_Coding_Test\README" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,12 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700233158265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="README3.md commit">
+      <created>1700466637692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700466637693</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="README3.md commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="README3.md commit" />
   </component>
 </project>
