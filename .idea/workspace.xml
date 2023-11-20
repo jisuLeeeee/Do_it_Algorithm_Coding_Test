@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_11659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_1546.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/README/README3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_1940.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_2018.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
@@ -57,11 +61,19 @@
       <option name="project" value="LOCAL" />
       <updated>1700145682672</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1700233158265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700233158265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
