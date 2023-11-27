@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="README3.md commit">
-      <change afterPath="$PROJECT_DIR$/README/README2.md" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="section0 commit">
+      <change afterPath="$PROJECT_DIR$/README/README4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_2164.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Doit_Algorithm_Coding_Test"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Doit_Algorithm_Coding_Test\README" />
@@ -76,13 +78,37 @@
       <option name="project" value="LOCAL" />
       <updated>1700466637693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README directory commit">
+      <created>1700467803001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700467803001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="img commit">
+      <created>1700467886905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700467886905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="section0 commit">
+      <created>1700468006364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700468006364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="README3.md commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="README3.md commit" />
+    <MESSAGE value="README directory commit" />
+    <MESSAGE value="img commit" />
+    <MESSAGE value="section0 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="section0 commit" />
   </component>
 </project>
