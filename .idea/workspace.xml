@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="section0 commit">
-      <change afterPath="$PROJECT_DIR$/README/README4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_2164.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="stack and queue commit">
+      <change afterPath="$PROJECT_DIR$/README/README5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_11286.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700468006364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="stack and queue commit">
+      <created>1701095701603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701095701603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +115,7 @@
     <MESSAGE value="README directory commit" />
     <MESSAGE value="img commit" />
     <MESSAGE value="section0 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="section0 commit" />
+    <MESSAGE value="stack and queue commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack and queue commit" />
   </component>
 </project>
