@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="stack and queue commit">
-      <change afterPath="$PROJECT_DIR$/README/README5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section1/Sol_11286.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="priority queue commit">
+      <change afterPath="$PROJECT_DIR$/README/README6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_2750.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/bubble_swap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2/Sol_2750.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701095701603</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="priority queue commit">
+      <created>1702383495394</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702383495394</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +125,7 @@
     <MESSAGE value="img commit" />
     <MESSAGE value="section0 commit" />
     <MESSAGE value="stack and queue commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack and queue commit" />
+    <MESSAGE value="priority queue commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="priority queue commit" />
   </component>
 </project>
