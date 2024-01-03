@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="part of select_sort commit">
-      <change afterPath="$PROJECT_DIR$/src/Section2/Sol_1427.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="select sort solution">
+      <change afterPath="$PROJECT_DIR$/README/README8.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/README7.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/README7.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704178049006</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="select sort solution">
+      <created>1704258026072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704258026072</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +146,7 @@
     <MESSAGE value="priority queue commit" />
     <MESSAGE value="bubble sort commit" />
     <MESSAGE value="part of select_sort commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="part of select_sort commit" />
+    <MESSAGE value="select sort solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="select sort solution" />
   </component>
 </project>
