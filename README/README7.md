@@ -20,3 +20,44 @@
 ## 🔓소트인사이드 (백준 1427)
 
 <img src="img/B_1427.png">
+
+```java
+package Section2;
+
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class Sol_1427 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        String[] arr_str = String.valueOf(N).split("");
+        int[] arr_int = new int[arr_str.length];
+
+        for(int i=0; i<arr_int.length; i++){
+            arr_int[i] = Integer.parseInt(arr_str[i]);
+        }
+
+        for(int i=0; i<arr_int.length; i++){
+            int max = arr_int[i];
+            int max_idx = i;
+            int first = arr_int[i];
+            for(int j=i; j<arr_int.length-1; j++){
+                if(max < arr_int[j+1]){
+                    max = arr_int[j+1];
+                    max_idx = j+1;
+                }
+            }
+            arr_int[i] = max;
+            arr_int[max_idx] = first;
+        }
+
+        for(int i : arr_int){
+            System.out.print(i);
+        }
+    }
+}
+```
+
+- 강의에서는 max의 값을 i로 저장해서 인덱스 번호까지 같이 활용했지만 본인은 max 값과 그 인덱스 번호 변수를 각각 선언함
+- 예제의 출력문의 맞게 일자로 출력되야 하므로 println 대신 print 사용
