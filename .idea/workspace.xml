@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="quick sort commit">
-      <change afterPath="$PROJECT_DIR$/README/README10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/dfs_stack1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/dfs_stack2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/dfs_stack3.png" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="dfs_stack commit">
+      <change afterPath="$PROJECT_DIR$/README/README11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_11724.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section3/Sol_11724.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
@@ -36,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Doit_Algorithm_Coding_Test"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Doit_Algorithm_Coding_Test&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Doit_Algorithm_Coding_Test\README" />
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704526280531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dfs_stack commit">
+      <created>1705297342862</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705297342862</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +172,7 @@
     <MESSAGE value="select sort solution" />
     <MESSAGE value="part of the insert, quck sort" />
     <MESSAGE value="quick sort commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="quick sort commit" />
+    <MESSAGE value="dfs_stack commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfs_stack commit" />
   </component>
 </project>
