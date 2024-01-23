@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="dfs_stack commit">
-      <change afterPath="$PROJECT_DIR$/README/README11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/B_11724.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section3/Sol_11724.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="P_2750.java commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section0/P_2750.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705297342862</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="dfs commit">
+      <created>1705393584780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705393584780</updated>
+    </task>
+    <task id="LOCAL-00016" summary="P_2750.java commit">
+      <created>1705394655920</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705394655920</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +183,8 @@
     <MESSAGE value="part of the insert, quck sort" />
     <MESSAGE value="quick sort commit" />
     <MESSAGE value="dfs_stack commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfs_stack commit" />
+    <MESSAGE value="dfs commit" />
+    <MESSAGE value="P_2750.java commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="P_2750.java commit" />
   </component>
 </project>
