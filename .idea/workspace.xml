@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="P_2750.java commit">
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="bfs commit">
+      <change afterPath="$PROJECT_DIR$/README/README13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_2178_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_2178_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section3/Sol_2178.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705394655920</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="bfs commit">
+      <created>1705996261220</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705996261220</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +196,23 @@
     <MESSAGE value="dfs_stack commit" />
     <MESSAGE value="dfs commit" />
     <MESSAGE value="P_2750.java commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="P_2750.java commit" />
+    <MESSAGE value="bfs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfs commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Section3/Sol_2178.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Section3/Sol_2178.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
