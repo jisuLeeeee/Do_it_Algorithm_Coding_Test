@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="bfs commit">
-      <change afterPath="$PROJECT_DIR$/README/README13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/B_2178_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/img/B_2178_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section3/Sol_2178.java" afterDir="false" />
+    <list default="true" id="4ababc13-1507-491c-a62b-153bb7e118b2" name="Changes" comment="dfs baekjoon_2178 commit">
+      <change afterPath="$PROJECT_DIR$/README/README14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/B_1920.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/binary_search1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/img/binary_search2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section3/Sol_1920.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Doit_Algorithm_Coding_Test&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Doit_Algorithm_Coding_Test"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Doit_Algorithm_Coding_Test\README" />
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705996261220</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="dfs baekjoon_2178 commit">
+      <created>1706168757299</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706168757299</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,7 +205,8 @@
     <MESSAGE value="dfs commit" />
     <MESSAGE value="P_2750.java commit" />
     <MESSAGE value="bfs commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="bfs commit" />
+    <MESSAGE value="dfs baekjoon_2178 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfs baekjoon_2178 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
